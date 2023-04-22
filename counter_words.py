@@ -36,5 +36,3 @@ def counter_words(file, top_n):
             break
     print(top_n, 'najrzadziej występujących słów to: ', rare[:top_n])
 
-
-counter_words('potop.txt', 10)
